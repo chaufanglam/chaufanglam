@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chaufanglam
+- 👋 Hi, I’m Chaufang Lin
 - 👀 I’m interested in speech and audio processing.
 - 🌱 I’m currently studying Master Electrical Engineering in TU Delft.
 - 📫 How to reach me: Z.Lin-7@student.tudelft.nl
